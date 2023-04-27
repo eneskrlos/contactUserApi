@@ -1,2 +1,2 @@
 # contactUserApi
-pryecto para gestionar usurios y sus contactos
+Proyecto para gestionar usurios y sus contactos
